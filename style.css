@@ -1,0 +1,16 @@
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+  background-color: #faf9f6;
+}
+
+
+@media (max-width: 680px){
+  
+}
+
+footer {
+  text-align: right;
+  color: midnightblue;
+}
+
